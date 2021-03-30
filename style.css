@@ -1,0 +1,41 @@
+.body_background 
+{
+    background-image: url("https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F42%2Fe6%2Fb4%2F42e6b484930e3bbc330610da34d4648b.png&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F739786676278707034%2F&tbnid=pwchQpjS06fMMM&vet=12ahUKEwjO2qflr9LvAhVcJLcAHY7-AXwQMygBegUIARDXAQ..i&docid=dcQDB6Elaqy8SM&w=931&h=1414&q=batman%20images&ved=2ahUKEwjO2qflr9LvAhVcJLcAHY7-AXwQMygBegUIARDXAQ");
+    background-position: center;
+    background-size: cover;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+}
+
+h2
+{
+	border-radius: 10px;
+	width: 200px;
+	padding: 5px;
+ }
+h3
+{
+	display: inline-block;
+}
+span
+{
+	color: black;	
+}
+a
+{
+	text-decoration: none;
+	font-size: 20px;
+	padding: 10px;
+    float: left;
+    border-radius: 10px;
+}
+#head_info
+{
+	width: 600px;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
